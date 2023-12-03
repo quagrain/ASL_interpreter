@@ -38,4 +38,6 @@ The primary objective of this project is to create a system that can accurately 
  Metrics like categorical accuracy  was employed to measure the accuracy of out model. With an accuracy of 100%
 
 
+Link to video: https://youtu.be/whv9cJ_zZYs
+
 
